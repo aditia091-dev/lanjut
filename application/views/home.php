@@ -123,6 +123,151 @@
         </div>
         <!-- end slides-navigation -->
         <div class="holder">
+            <br>
+            <br>
+            <br>
+            <br>
+            <span class="scroll-btn"> 
+            <a href="#background-2">
+                <span class="mouse">
+                    <span>
+                    </span>
+            </span>
+            </a>
+            </span>
+            <i class="fa fa-chevron-down moreArrow moving"></i>
+        </div>
+    </section>
+ <!-- ___________ -->
+     <section id="background-2" class="pb">
+        <div class="slides-container">
+            <div class="slide active">
+                <div class="img"><img src="<?php base_url(); ?>asset/images/slider/bg_2.png" alt="slide" class="img-responsive"></div>
+                <div class="overlay"></div>
+                <div class="slide-caption">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+<div class="holder">
+            <span class="scroll-btn">
+            <a href="#background-3">
+                <span class="mouse">
+                    <span>
+                    </span>
+            </span>
+            </a>
+            </span>
+            <i class="fa fa-chevron-down moreArrow moving"></i>
+        </div>
+    </section>     
+    <!-- __________ -->
+
+    <section id="background-3" class="pb">
+        <div class="slides-container">
+            <div class="slide active">
+                <div class="img"><img src="<?php base_url(); ?>asset/images/slider/bg_3.png" alt="slide" class="img-responsive"></div>
+                <div class="overlay"></div>
+                <div class="slide-caption">
+
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+<div class="holder">
+            <span class="scroll-btn">
+            <a href="#background-4">
+                <span class="mouse">
+                    <span>
+                    </span>
+            </span>
+            </a>
+            </span>
+            <i class="fa fa-chevron-down moreArrow moving"></i>
+        </div>
+    </section>   
+
+    <!-- _______________ -->
+
+    <section id="background-4" class="pb">
+        <div class="slides-container">
+            <div class="slide active">
+                <div class="img"><img src="<?php base_url(); ?>asset/images/slider/bg_4.png" alt="slide" class="img-responsive"></div>
+                <div class="overlay"></div>
+                <div class="slide-caption">
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+<div class="holder">
             <span class="scroll-btn">
             <a href="#karbar-how-it-works-section">
                 <span class="mouse">
@@ -134,10 +279,11 @@
             <i class="fa fa-chevron-down moreArrow moving"></i>
         </div>
     </section>
-    <!-- end slider -->
-    <!-- =========================
-            How it works section
-     ============================== -->
+
+    <!-- ___________ -->               
+
+
+
     <section id="karbar-how-it-works-section" class="how-it-works section-bg-color">
         <div class="container">
             <div class="row">
